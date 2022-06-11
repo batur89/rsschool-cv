@@ -1,5 +1,5 @@
   **[RSSCHOOL-CV] (https://batur89.github.io/rsschool-cv/cv)
-  
+
   ***
 
   ## Anton Batura #
@@ -20,9 +20,10 @@
   ***
   I am at the very beginning of the journey.
 
-  ***
+---
   ### Skills #
-  ***
+
+---
   #### Hard skills: #
 
    - HTML5
@@ -38,7 +39,7 @@
 
   ### Code Example #
 
-  ***
+---
 
       function func(s){
       return s.indexOf('?') 
@@ -48,13 +49,15 @@
 
     ### Education #
 
-  ***
+---
 
   - #### University: #
     - Belarus state economical university
-  - #### Corses: #
+  - #### Courses: #
     - CS50
     - HTML Academy
+
+---
 
   ### English #
   ***
