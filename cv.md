@@ -1,11 +1,12 @@
-  **[RSSCHOOL-CV] (https://batur89.github.io/rsschool-cv/cv)**
+  **[RSSCHOOL-CV] (https://batur89.github.io/rsschool-cv/cv)
+  
   ***
 
-  ## Anton Batura
+  ## Anton Batura #
 
   ***
 
-  ### Contacts ###
+  ### Contacts #
   ***
   
    - Phone: +375 29 891-57-23
@@ -14,24 +15,29 @@
    - GitHub: [batur89] (https://batur89.github.io)
    ***
 
-  ### About Me ###
+  ### About Me #
+
   ***
   I am at the very beginning of the journey.
 
   ***
-  ### Skills ###
+  ### Skills #
   ***
-  #### Hard skills: ####
+  #### Hard skills: #
+
    - HTML5
    - CSS3
    - JavaScript
   
-  #### Soft skills: ####
+  #### Soft skills: #
+
    - Good communication
    - Teamwork
    - Quick learning
 
-  ### Code Example ###
+
+  ### Code Example #
+
   ***
 
       function func(s){
@@ -40,17 +46,17 @@
       }
   
 
-    ### Education ###
-    
+    ### Education #
+
   ***
 
-  - #### University: ####
+  - #### University: #
     - Belarus state economical university
-  - #### Corses: ####
+  - #### Corses: #
     - CS50
     - HTML Academy
 
-  ### English ###
+  ### English #
   ***
   A1
 
