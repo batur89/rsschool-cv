@@ -12,3 +12,28 @@
    - Location: Minsk, Belarus
    - GitHub: [batur89] (https://batur89.github.io)
    ***
+
+  ### About Me
+  ***
+  I am at the very beginning of the journey.
+
+  ***
+  ### Skills
+  ***
+  #### Hard skills:
+   - HTML5
+   - CSS3
+   - JavaScript
+  
+  #### Soft skills:
+   - Good communication
+   - Teamwork
+   - Quick learning
+
+  ### Code Example
+
+  ***
+
+  
+
+
