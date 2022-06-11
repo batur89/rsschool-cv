@@ -31,9 +31,29 @@
    - Quick learning
 
   ### Code Example
-
   ***
 
+      function func(s){
+      return s.indexOf('?') 
+      >0?s:s+='?';
+      }
   
+
+  ### Education
+  ***
+
+  - #### University:
+    - Belarus state economical university
+  - #### Corses:
+    - CS50
+    - HTML Academy
+
+  ### English
+  ***
+  A1
+
+
+
+
 
 
