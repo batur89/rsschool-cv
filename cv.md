@@ -1,12 +1,13 @@
-  **[RSSCHOOL-CV] (https://batur89.github.io/rsschool-cv/cv)
+**[RSSCHOOL-CV] (https://batur89.github.io/rsschool-cv/cv)
 
   ***
 
-  ## Anton Batura #
+## Anton Batura #
 
   ***
 
-  ### Contacts #
+### Contacts #
+
   ***
   
    - Phone: +375 29 891-57-23
@@ -21,23 +22,25 @@
   I am at the very beginning of the journey.
 
 ---
+ 
   ### Skills #
 
 ---
-  #### Hard skills: #
+
+#### Hard skills: #
 
    - HTML5
    - CSS3
    - JavaScript
   
-  #### Soft skills: #
+#### Soft skills: #
 
    - Good communication
    - Teamwork
    - Quick learning
 
 
-  ### Code Example #
+### Code Example #
 
 ---
 
@@ -47,7 +50,7 @@
       }
   
 
-    ### Education #
+ ### Education #
 
 ---
 
@@ -59,9 +62,8 @@
 
 ---
 
-  ### English #
+### English #
 
----
   
   A1
 
