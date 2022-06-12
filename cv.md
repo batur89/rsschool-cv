@@ -1,4 +1,4 @@
-**[RSSCHOOL-CV] (https://batur89.github.io/rsschool-cv/cv)
+[RSSCHOOL-CV](https://batur89.github.io/rsschool-cv/cv)
 
   ***
 
@@ -16,14 +16,14 @@
    - GitHub: [batur89] (https://batur89.github.io)
    ***
 
-  ### About Me #
+### About Me #
 
   ***
   I am at the very beginning of the journey.
 
 ---
  
-  ### Skills #
+### Skills #
 
 ---
 
@@ -50,7 +50,7 @@
       }
   
 
- ### Education #
+### Education #
 
 ---
 
