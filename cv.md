@@ -1,6 +1,3 @@
-[RSSCHOOL-CV](https://batur89.github.io/rsschool-cv/cv)
-
-  ***
 
 ## Anton Batura #
 
@@ -19,7 +16,7 @@
 ### About Me #
 
   ***
-  I am at the very beginning of the journey.
+    I am at the very beginning of the journey.
 
 ---
  
@@ -65,7 +62,7 @@
 ### English #
 
   
-  A1
+    A1
 
 
 
