@@ -19,3 +19,47 @@
     I am at the very beginning of the journey.
 
 ---
+ 
+### Skills #
+
+---
+
+#### Hard skills: #
+
+   - HTML5
+   - CSS3
+   - JavaScript
+  
+#### Soft skills: #
+
+   - Good communication
+   - Teamwork
+   - Quick learning
+
+
+### Code Example #
+
+---
+```
+
+      function strFormArr(words) {
+      return words.join(' ')
+      }
+```
+
+### Education #
+
+---
+
+  - #### University: #
+    - Belarus state economical university
+  - #### Courses: #
+    - CS50
+    - HTML Academy
+
+---
+
+### English #
+
+  
+    A2
