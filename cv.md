@@ -8,9 +8,10 @@
   ***
   
    - Phone: +375 29 891-57-23
-   - Email: abatura1989@gmail.com
+   - Email: [abatura1989@gmail.com](abatura1989@gmail.com)
    - Location: Minsk, Belarus
-   - GitHub: [batur89] (https://batur89.github.io)
+   - GitHub: [batur89](https://batur89.github.io)
+                                                                                  
    ***
 
 ### About Me #
@@ -42,7 +43,7 @@
 ---
 ```
 
-      function strFormArr(words) {
+      function strFromArr(words) {
       return words.join(' ')
       }
 ```
